@@ -42,7 +42,7 @@ Our Organization Structure
 
 Zion Information  Technology  is  a   monolithic OpenSource  Research Organization.
 Since  Using  JSLASH   we  can  create   a
-Technology  in   a  minute....
+programming Language  in   a  minute....
 For  a  research  Org  a  unique  person
 can  do  the  job if  an  automated 
 compiler  like  JSLASH  is  available.
@@ -52,7 +52,7 @@ All  WRIT Technologies   are   invented
 by  wilmix   jemin  j.
 JSLASH  is  invented by  wilmix  jemin  j
 by God  grace.
-BY  using  CDollar  we  can  create  any technology    what  ever  you  want...
+BY  using  JSLASH  we  can  create  any technology    what  ever  you  want...
 
 
 
