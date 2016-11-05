@@ -2,9 +2,9 @@
 ============
 
 
-# ABOUTUS
+
 Zion Information Technology is otherwise known as ZIT is a product based company started  by   wilmix  jemin j. 
-Zion Information Technology(ZIT) is focused on   Advanced Software Development, WebDesign, Developing utilities, WebPublishing ,Cloud computing , and Client Services. JIT provides information technology, software engineering , research , and Quality Analysis.
+Zion Information Technology(ZIT) is focused on   Advanced Software Development, WebDesign, Developing utilities, WebPublishing ,Advanced Business, and Client Services. ZIT provides information technology, software engineering , research , and Quality Analysis.
 
 OUR HUMAN POLICY
 ----------------
@@ -17,7 +17,7 @@ F-faith , c-co-operation , U-Unity (not competition), D-Divine T-Truth, I-Intell
 
 THE SCENARIO
 
-In todayâ€™s Recession environment, We must focus on Product based Business and we must invent a new Utilities that are necessary for today Software Developments.
+In today's Recession environment, We must focus on Product based Business and we must invent a new Utilities that are necessary for today Software Developments.
 
 
 
@@ -29,11 +29,11 @@ BUILD    a   SPEED  GROWTH  LIFE    CYCLE  BY  OUR  SELF
 SAVES  TIME  For    the    Clients.
 Reduced development costs.
 Better global and local reach.
-Use   Jemin  Research   LAB (JSR) Techniques    to    choose    the  appropriate    Technologies .
+Use   ZION  Research   LAB (ZRL) Techniques    to    choose    the  appropriate    Technologies .
 
 What did this Organization is focused for?
 --------------------------------------------
-This Organization is focused for Software Development projects ,Research projects, and EBOOKS for College Professionals about the Technologies.
+This Organization is focused for Software Development projects ,Research projects, and EBOOKS for College Professionals about the Programming Languages.
 
 
 
@@ -48,7 +48,7 @@ can  do  the  job if  an  automated
 compiler  like  JSLASH  is  available.
 So  there  is  no  need  of  employees
 to  do  this  job.
-All  WSIT Technologies   are   invented
+All  WRIT Technologies   are   invented
 by  wilmix   jemin  j.
 JSLASH  is  invented by  wilmix  jemin  j
 by God  grace.
@@ -67,7 +67,7 @@ Product Categories
 Operating  system  Development
 Inventing    standard    Technology  according    to  market   standards.
 Utilities
-Banking  and   Finance  Domian
+Banking  and   Finance  Domain
 Customer  Service
 Insurance  Domain
 Human  Resources   Domain
@@ -75,7 +75,7 @@ Marketing   Domain
 Databases
 Webdesign
 Webpublishing
-Cloud  computing
+
 Quality  analysis
 Research  Domain.
 
@@ -87,6 +87,7 @@ Advanced   Project   Management
 Oracle
 Application  Management
 Cloud
+Advanced Business
 Engineering   Services
 Testing
 Customer   Service
